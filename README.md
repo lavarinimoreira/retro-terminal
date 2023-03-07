@@ -10,4 +10,4 @@ This is a simple React application that displays the current system time and dat
 
 ## Screenshots
 
-![Retro Terminal](/public/images/retro-terminal.jpg?raw=true "Retro Terminal")
+![Retro Terminal](/public/images/retro-terminal.png?raw=true "Retro Terminal")
