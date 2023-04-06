@@ -58,9 +58,9 @@ pre {
     margin: 16% 0 0 0;
 }
 
-.date{
-    margin: 0 0 0 270px;
-}
+// .date{
+//     margin: 0 0 0 270px;
+// }
 
 @media (max-width: $layout-breakpoint-small) {
   body{
@@ -70,12 +70,7 @@ pre {
     position: absolute;
     top: 0;
     left: calc(50% - 350px);
-  
-}
-
-.date{
-    margin: 0 0 0 0px;
-}
+  }
 }
 
 @media (max-width: 700px){
